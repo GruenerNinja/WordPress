@@ -209,6 +209,8 @@ li a:hover.ac-cl-link {
 }
 /* Side Bar */
 ul.sc-gn-list {
+    display:flex;
+    flex-direction: column;
     top: 42px;
     position: relative;
     list-style-type: none;
