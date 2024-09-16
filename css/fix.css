@@ -2,5 +2,7 @@
   display:none;
 }
 .wp-block-image img{
+  all: revert;
   width: 1442px;
+  height:auto;
 }
